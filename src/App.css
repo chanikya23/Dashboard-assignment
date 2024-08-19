@@ -1,0 +1,18 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.widget {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px 0;
+  position: relative;
+}
+
+.widget button {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+

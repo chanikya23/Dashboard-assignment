@@ -1,0 +1,16 @@
+[
+  {
+    "category": "CSPM Executive Dashboard",
+    "widgets": [
+      { "id": 1, "name": "Cloud Accounts", "text": "This is widget 1", "image": "https://via.placeholder.com/100" },
+      { "id": 2, "name": "Cloud account Risk Assessment", "text": "This is widget 2", "image": "https://via.placeholder.com/100" }
+    ]
+  },
+  {
+    "category": "CWPP Dashboard",
+    "widgets": [
+      { "id": 1, "name": "Top 5 Namaspace Specific Alerts", "image": "https://via.placeholder.com/100" },
+      { "id": 2, "name": "Workload Alerts","image": "https://via.placeholder.com/100" }
+    ]
+  }
+]

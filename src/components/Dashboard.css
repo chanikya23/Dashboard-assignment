@@ -1,0 +1,6 @@
+.Dashboard button{
+    margin-left: 90%;
+}
+.Dashboard button:hover{
+    cursor: pointer;
+}   
